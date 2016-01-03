@@ -1,4 +1,4 @@
-# Performing Mesh
+# Ways of Seeing: Visualizing Networks
 Workshop Materials for [Radical Networks 2015](http://radicalnetworks.org/)
 2015-10-24
 
