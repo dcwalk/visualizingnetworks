@@ -7,7 +7,10 @@ I encourage you to use these materials and provide feedback or share your experi
 
 ### Repository Stucture
 The repository is structured as follows:
+<<<<<<< Updated upstream
 * `/ ` contains [additional resources](https://github.com/dcwalk/visualizingnetworks)
+=======
+>>>>>>> Stashed changes
 * `waysofseeing/ ` contains the presentation and details on materials that need to be printed (or substituted for) to lead the workshop
 
 ### Contact
